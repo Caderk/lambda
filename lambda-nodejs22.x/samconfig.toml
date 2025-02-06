@@ -3,7 +3,7 @@
 version = 0.1
 
 [default.global.parameters]
-stack_name = "lambda-nodejs22.x"
+stack_name = "lambda-nodejs22-x"
 
 [default.build.parameters]
 cached = true
